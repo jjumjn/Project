@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352756732851",
+    "project_id": "tpquicksearchmr0103",
+    "storage_bucket": "tpquicksearchmr0103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352756732851:android:046dc391ba51a99830b1c6",
+        "android_client_info": {
+          "package_name": "com.jju4272.tpkakaolocalsearchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPXcJw6TuNuDOHxU1U-mdJWR9njU3eWDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
